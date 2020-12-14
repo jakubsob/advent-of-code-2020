@@ -18,6 +18,6 @@ const part2 = (input, sum = 2020) => {
 
 module.exports = part2;
 
-const fs = require('fs');
-let input = fs.readFileSync("./data/data.txt", 'utf-8');
-console.log(part2(input, 2020));
+// const fs = require('fs');
+// let input = fs.readFileSync("./data/data.txt", 'utf-8');
+// console.log(part2(input, 2020));
