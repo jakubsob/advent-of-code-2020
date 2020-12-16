@@ -12,7 +12,6 @@ const part1 = (input) => {
   while (!visited.includes(currIndex)) {
     curr = input[currIndex];
     visited.push(currIndex);
-    console.log(curr);
     switch (curr[1]) {
       case 'nop':
         currIndex++;
