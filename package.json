@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/jakubsob/advent-of-code-2020.git"
   },
-  "author": "Jakub Sobolewski",
-  "license": "MIT"
+  "author": "Jakub Sobolewski <jakupsob@gmail.com>",
+  "homepage": "https://github.com/jakubsob/advent-of-code-2020#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
 }
