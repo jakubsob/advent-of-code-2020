@@ -17,3 +17,4 @@ JavaScript solutions to Advent of Code 2020
 | 8   |  :star:  |  :star:  |
 | 9   |  :star:  |  :star:  |
 | 10  |  :star:  |  :star:  |
+| 11  |  :star:  |  :star:  |
